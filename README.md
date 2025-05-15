@@ -36,5 +36,6 @@ Recognizing the need for deeper technical expertise and acknowledging the power 
 ## 🤔 What I'm interested in
 - Competitive programming
 - Artificial intelligence
-- Web development
-- Cyber security
+- Distributed System
+- Web Development
+- Cyber Security
