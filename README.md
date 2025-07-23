@@ -1,7 +1,11 @@
 # Hi there, My name is Zanan Pech <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ## 🐣→💡→🚀 About me
-With over two years of experience as a software developer, I began my career after earning a Bachelor's degree in Computer Science from Hungary. Throughout my journey, I have built a strong foundation in IT, web development, and software engineering. I have worked on a diverse range of projects, from developing automated scripts to building large-scale distributed systems. Passionate about continuous learning, I am dedicated to delivering high-quality solutions and contributing to the success of every project and team I work with.
-Recognizing the need for deeper technical expertise and acknowledging the power of AI in solving real-world problems, I pursued a Master's in Data Science at the University of British Columbia in 2025. 
+With over two years of experience as a software developer, I launched my career after earning a Bachelor's degree in Computer Science from Hungary. Throughout my professional journey, I have cultivated a robust foundation in IT, web development, and software engineering.
+
+My experience encompasses a diverse portfolio of projects, ranging from developing automated scripts and workflows to architecting and implementing large-scale distributed systems. This breadth of work has equipped me with versatile problem-solving skills and deep technical expertise across multiple domains.
+
+Driven by a passion for continuous learning and innovation, I am committed to delivering exceptional, high-quality solutions while actively contributing to the success of every project and team I collaborate with. Recognizing the transformative potential of artificial intelligence in addressing complex real-world challenges, I made the strategic decision to pursue a Master's degree in Data Science at the University of British Columbia, beginning in 2025.
+
 <p><a href="https://www.linkedin.com/in/zanan-pech-a44833174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
@@ -39,3 +43,5 @@ Recognizing the need for deeper technical expertise and acknowledging the power 
 - Distributed System
 - Web Development
 - Cyber Security
+## Learn more about me
+https://zananpech.github.io/portfolio/
