@@ -43,5 +43,5 @@ Driven by a passion for continuous learning and innovation, I am committed to de
 - Distributed System
 - Web Development
 - Cyber Security
-## Learn more about me
+## 🧑‍💻 Learn more about me
 https://zananpech.github.io/portfolio/
