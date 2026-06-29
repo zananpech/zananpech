@@ -1,6 +1,6 @@
 # Hi there, My name is Zanan Pech <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ## 🐣→💡→🚀 About me
-With over two years of experience as a software developer, I launched my career after earning a Bachelor's degree in Computer Science from Hungary. Throughout my professional journey, I have cultivated a robust foundation in IT, web development, and software engineering.
+With over three years of experience as a software developer, I launched my career after earning a Bachelor's degree in Computer Science from Hungary. Throughout my professional journey, I have cultivated a robust foundation in IT, web development, and software engineering.
 
 My experience encompasses a diverse portfolio of projects, ranging from developing automated scripts and workflows to architecting and implementing large-scale distributed systems. This breadth of work has equipped me with versatile problem-solving skills and deep technical expertise across multiple domains.
 
