@@ -1,64 +1,71 @@
-# Hi there, My name is Zanan Pech <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi, I'm Zanan Pech 👋
 
-## 🐣→💡→🚀 About me
+**Software & AI Engineer** building agentic systems, RAG pipelines, and the evaluation and safety infrastructure around them.
 
-I am a Software and AI Engineer with a solid foundation in computer science and advanced training in data science. Throughout my professional journey, I have cultivated deep technical expertise across distributed microservices, application engineering, and intelligent systems.
+I hold a BSc in Computer Science (University of Debrecen) and an MSc in Data Science (University of British Columbia). Based in Vancouver, BC.
 
-My background includes building scalable 5G network integration tests in C++ at **Ericsson**, designing Spring Boot/React temporal tracking architectures at **EverIT Kft**, and building machine learning models for forestry monitoring at **Natural Resources Canada**. Most recently, as a Software & AI Engineer at **Machobear Studios**, I designed and built production-ready agentic AI platforms, automated RAG pipelines, and safety guardrails.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanan-pech-a44833174/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=githubpages&logoColor=white)](https://zananpech.github.io/portfolio/)
 
-I hold a Bachelor of Computer Science (BSc) from the University of Debrecen, Hungary, and a Master of Data Science (MSc) from the University of British Columbia, Canada.
+## 🚀 What I do
 
-<p>
-  <a href="https://www.linkedin.com/in/zanan-pech-a44833174/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" />
-  </a>
-</p>
+- **Agentic AI:** production multi-agent platforms with LangGraph, MCP servers (OAuth 2.1, JWT/JWKS, scope enforcement), and safety guardrails
+- **RAG & evaluation:** automated retrieval pipelines and LLM observability with Langfuse
+- **Backend & distributed systems:** microservices, CI/CD, Kubernetes deployments
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
+## 💼 Experience
 
-### 🗣️ Languages
+| Company | Role | Focus |
+|---|---|---|
+| **Machobear Studios** | Software & AI Engineer | Agentic AI platforms, automated RAG pipelines, safety guardrails |
+| **Natural Resources Canada** | ML / Software | Machine learning models for forestry monitoring |
+| **EverIT Kft** | Software Engineer | Spring Boot + React temporal tracking architecture |
+| **Ericsson** | Software Engineer | Scalable 5G network integration tests in C++ |
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+## 🛠️ Tech stack
 
-### 🤖 AI, ML & Agentic Systems
+**Languages**
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=graph&logoColor=white)
-![RAG & Guardrails](https://img.shields.io/badge/RAG%20%26%20Guardrails-4B5563?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+**AI & ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-4B5563?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 💾 Databases & DevOps
+**Backend & frontend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Data & DevOps**
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 
-### 🕓 Version Control
+## 🔬 Research interests
 
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+NLP · AI safety & explainability · Agentic security
 
-## 🤔 What I'm interested in
+## 🤔 Also into
 
-- Competitive programming
-- Artificial intelligence & Agentic systems
-- Distributed Systems & High-Performance Computing
-- Web Application Architecture
-- Cybersecurity
+Competitive programming · Distributed systems & HPC · Web application architecture · Cybersecurity
 
-## 🧑‍💻 Learn more about me
+---
 
-https://zananpech.github.io/portfolio/
+📫 More on my work: **[zananpech.github.io/portfolio](https://zananpech.github.io/portfolio/)**
