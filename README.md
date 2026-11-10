@@ -1,6 +1,6 @@
 # Hi, I'm Zanan Pech 👋
 
-**Software & AI Engineer** building agentic systems, RAG pipelines, and the evaluation and safety infrastructure around them.
+**Data Scientist & AI Engineer** building agentic systems, RAG pipelines, and the evaluation and safety infrastructure around them.
 
 I hold a BSc in Computer Science (University of Debrecen) and an MSc in Data Science (University of British Columbia). Based in Vancouver, BC.
 
